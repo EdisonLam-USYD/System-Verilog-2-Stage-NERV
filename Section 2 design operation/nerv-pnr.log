@@ -1,0 +1,754 @@
+Warning: Use of default value for --package is deprecated. Please add '--package ct256' to arguments.
+Warning: IO 'x10[31]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[30]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[29]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[28]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[27]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[26]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[25]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[24]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[23]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[22]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[21]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[20]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[19]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[18]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[17]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[16]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[15]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[14]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[13]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[12]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[11]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[10]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[9]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[8]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[7]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[6]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[5]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[4]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'x10[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'trap' is unconstrained in PCF and will be automatically placed
+Warning: IO 'reset' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[31]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[30]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[29]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[28]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[27]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[26]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[25]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[24]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[23]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[22]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[21]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[20]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[19]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[18]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[17]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[16]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[15]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[14]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[13]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[12]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[11]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[10]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[9]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[8]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[7]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[6]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[5]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[4]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_data[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[31]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[30]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[29]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[28]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[27]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[26]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[25]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[24]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[23]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[22]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[21]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[20]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[19]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[18]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[17]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[16]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[15]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[14]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[13]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[12]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[11]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[10]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[9]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[8]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[7]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[6]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[5]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[4]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'imem_addr[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wstrb[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wstrb[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wstrb[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wstrb[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[31]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[30]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[29]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[28]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[27]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[26]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[25]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[24]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[23]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[22]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[21]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[20]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[19]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[18]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[17]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[16]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[15]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[14]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[13]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[12]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[11]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[10]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[9]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[8]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[7]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[6]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[5]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[4]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_wdata[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_valid' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[31]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[30]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[29]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[28]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[27]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[26]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[25]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[24]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[23]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[22]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[21]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[20]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[19]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[18]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[17]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[16]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[15]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[14]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[13]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[12]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[11]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[10]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[9]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[8]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[7]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[6]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[5]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[4]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_rdata[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[31]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[30]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[29]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[28]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[27]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[26]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[25]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[24]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[23]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[22]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[21]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[20]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[19]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[18]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[17]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[16]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[15]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[14]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[13]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[12]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[11]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[10]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[9]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[8]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[7]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[6]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[5]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[4]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[3]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[2]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[1]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'dmem_addr[0]' is unconstrained in PCF and will be automatically placed
+Warning: IO 'clock' is unconstrained in PCF and will be automatically placed
+
+Info: Packing constants..
+Info: Packing IOs..
+Info: Packing LUT-FFs..
+Info:     3542 LCs used as LUT4 only
+Info:       95 LCs used as LUT4 and DFF
+Info: Packing non-LUT FFs..
+Info:     1190 LCs used as DFF only
+Info: Packing carries..
+Info:      132 LCs used as CARRY only
+Info: Packing RAMs..
+Info: Placing PLLs..
+Info: Packing special functions..
+Info: Packing PLLs..
+Info: Promoting globals..
+Info: promoting clock$SB_IO_IN (fanout 1285)
+Info: promoting $abc$24187$auto$rtlil.cc:1969:NotGate$24119 [reset] (fanout 32)
+Info: promoting stall_ID [reset] (fanout 32)
+Info: promoting $abc$24187$auto$dff2dffe.cc:175:make_patterns_logic$15872 [cen] (fanout 32)
+Info: promoting $abc$24187$auto$dff2dffe.cc:158:make_patterns_logic$22052 [cen] (fanout 32)
+Info: promoting $abc$24187$auto$dff2dffe.cc:158:make_patterns_logic$19556 [cen] (fanout 32)
+Info: promoting $abc$24187$auto$dff2dffe.cc:158:make_patterns_logic$22436 [cen] (fanout 32)
+Info: Constraining chains...
+Info:       10 LCs used to legalise carry chains.
+Info: Checksum: 0x782a5810
+
+Info: Annotating ports with timing budgets for target frequency 12.00 MHz
+Info: Checksum: 0x93d2f877
+
+Info: Device utilisation:
+Info: 	         ICESTORM_LC:  4971/ 7680    64%
+Info: 	        ICESTORM_RAM:     0/   32     0%
+Info: 	               SB_IO:   200/  256    78%
+Info: 	               SB_GB:     7/    8    87%
+Info: 	        ICESTORM_PLL:     0/    2     0%
+Info: 	         SB_WARMBOOT:     0/    1     0%
+
+Info: Placed 0 cells based on constraints.
+Info: Creating initial analytic placement for 4604 cells, random placement wirelen = 135917.
+Info:     at initial placer iter 0, wirelen = 6587
+Info:     at initial placer iter 1, wirelen = 6050
+Info:     at initial placer iter 2, wirelen = 5800
+Info:     at initial placer iter 3, wirelen = 5836
+Info: Running main analytical placer.
+Info:     at iteration #1, type ALL: wirelen solved = 5789, spread = 32740, legal = 35459; time = 0.08s
+Info:     at iteration #2, type ALL: wirelen solved = 6993, spread = 30573, legal = 34977; time = 0.09s
+Info:     at iteration #3, type ALL: wirelen solved = 8444, spread = 26189, legal = 31653; time = 0.10s
+Info:     at iteration #4, type ALL: wirelen solved = 9639, spread = 25994, legal = 30197; time = 0.09s
+Info:     at iteration #5, type ALL: wirelen solved = 10174, spread = 24708, legal = 29203; time = 0.09s
+Info:     at iteration #6, type ALL: wirelen solved = 10632, spread = 23978, legal = 29875; time = 0.11s
+Info:     at iteration #7, type ALL: wirelen solved = 11113, spread = 22482, legal = 28405; time = 0.09s
+Info:     at iteration #8, type ALL: wirelen solved = 11357, spread = 22455, legal = 26853; time = 0.09s
+Info:     at iteration #9, type ALL: wirelen solved = 11539, spread = 21928, legal = 27074; time = 0.09s
+Info:     at iteration #10, type ALL: wirelen solved = 11945, spread = 21488, legal = 26209; time = 0.09s
+Info:     at iteration #11, type ALL: wirelen solved = 12626, spread = 21119, legal = 25059; time = 0.08s
+Info:     at iteration #12, type ALL: wirelen solved = 12624, spread = 20803, legal = 24850; time = 0.08s
+Info:     at iteration #13, type ALL: wirelen solved = 13059, spread = 19932, legal = 24346; time = 0.08s
+Info:     at iteration #14, type ALL: wirelen solved = 13277, spread = 19754, legal = 24359; time = 0.08s
+Info:     at iteration #15, type ALL: wirelen solved = 13457, spread = 19726, legal = 24782; time = 0.08s
+Info:     at iteration #16, type ALL: wirelen solved = 13815, spread = 19628, legal = 24192; time = 0.09s
+Info:     at iteration #17, type ALL: wirelen solved = 14185, spread = 19241, legal = 23622; time = 0.08s
+Info:     at iteration #18, type ALL: wirelen solved = 14431, spread = 19328, legal = 23517; time = 0.08s
+Info:     at iteration #19, type ALL: wirelen solved = 14878, spread = 19204, legal = 23460; time = 0.08s
+Info:     at iteration #20, type ALL: wirelen solved = 15402, spread = 19295, legal = 23490; time = 0.08s
+Info:     at iteration #21, type ALL: wirelen solved = 15328, spread = 19574, legal = 23390; time = 0.07s
+Info:     at iteration #22, type ALL: wirelen solved = 16129, spread = 19856, legal = 23617; time = 0.08s
+Info:     at iteration #23, type ALL: wirelen solved = 15846, spread = 19716, legal = 23024; time = 0.07s
+Info:     at iteration #24, type ALL: wirelen solved = 16296, spread = 19329, legal = 22657; time = 0.07s
+Info:     at iteration #25, type ALL: wirelen solved = 16157, spread = 19811, legal = 22932; time = 0.07s
+Info:     at iteration #26, type ALL: wirelen solved = 16427, spread = 19488, legal = 23098; time = 0.07s
+Info:     at iteration #27, type ALL: wirelen solved = 16405, spread = 19426, legal = 22678; time = 0.06s
+Info:     at iteration #28, type ALL: wirelen solved = 16583, spread = 19749, legal = 22948; time = 0.07s
+Info:     at iteration #29, type ALL: wirelen solved = 16724, spread = 19512, legal = 23285; time = 0.07s
+Info: HeAP Placer Time: 2.89s
+Info:   of which solving equations: 1.07s
+Info:   of which spreading cells: 0.23s
+Info:   of which strict legalisation: 1.15s
+
+Info: Running simulated annealing placer for refinement.
+Info:   at iteration #1: temp = 0.000000, timing cost = 1535, wirelen = 22657
+Info:   at iteration #5: temp = 0.000000, timing cost = 1837, wirelen = 20099
+Info:   at iteration #10: temp = 0.000000, timing cost = 1801, wirelen = 19170
+Info:   at iteration #15: temp = 0.000000, timing cost = 1754, wirelen = 18659
+Info:   at iteration #20: temp = 0.000000, timing cost = 1723, wirelen = 18456
+Info:   at iteration #20: temp = 0.000000, timing cost = 1720, wirelen = 18457 
+Info: SA placement time 2.29s
+
+Info: Max frequency for clock 'clock$SB_IO_IN_$glb_clk': 47.08 MHz (PASS at 12.00 MHz)
+
+Info: Max delay <async>                         -> <async>                        : 13.79 ns
+Info: Max delay <async>                         -> posedge clock$SB_IO_IN_$glb_clk: 22.18 ns
+Info: Max delay posedge clock$SB_IO_IN_$glb_clk -> <async>                        : 21.27 ns
+
+Info: Slack histogram:
+Info:  legend: * represents 16 endpoint(s)
+Info:          + represents [1,16) endpoint(s)
+Info: [ 61153,  62210) |*********+
+Info: [ 62210,  63267) |**********************************+
+Info: [ 63267,  64324) |************************************************************ 
+Info: [ 64324,  65381) |**********************************+
+Info: [ 65381,  66438) |********+
+Info: [ 66438,  67495) |*******+
+Info: [ 67495,  68552) |****************************+
+Info: [ 68552,  69609) |*******************************+
+Info: [ 69609,  70666) |*********+
+Info: [ 70666,  71723) |********+
+Info: [ 71723,  72780) |******************************+
+Info: [ 72780,  73837) |*******************************+
+Info: [ 73837,  74894) |********+
+Info: [ 74894,  75951) |****+
+Info: [ 75951,  77008) |***+
+Info: [ 77008,  78065) |*+
+Info: [ 78065,  79122) |*+
+Info: [ 79122,  80179) |***+
+Info: [ 80179,  81236) |*******+
+Info: [ 81236,  82293) |***+
+Info: Checksum: 0xadf17463
+
+Info: Routing..
+Info: Setting up routing queue.
+Info: Routing 16071 arcs.
+Info:            |   (re-)routed arcs  |   delta    | remaining|       time spent     |
+Info:    IterCnt |  w/ripup   wo/ripup |  w/r  wo/r |      arcs| batch(sec) total(sec)|
+Info:       1000 |       31        649 |   31   649 |     15103|       0.06       0.06|
+Info:       2000 |       42       1638 |   11   989 |     14115|       0.18       0.24|
+Info:       3000 |       71       2609 |   29   971 |     13157|       0.16       0.41|
+Info:       4000 |      135       3545 |   64   936 |     12244|       0.09       0.49|
+Info:       5000 |      242       4438 |  107   893 |     11380|       0.15       0.64|
+Info:       6000 |      359       5321 |  117   883 |     10515|       0.10       0.74|
+Info:       7000 |      435       6245 |   76   924 |      9614|       0.17       0.91|
+Info:       8000 |      531       7149 |   96   904 |      8756|       0.22       1.13|
+Info:       9000 |      656       8024 |  125   875 |      7918|       0.17       1.30|
+Info:      10000 |      783       8897 |  127   873 |      7114|       0.16       1.45|
+Info:      11000 |      977       9703 |  194   806 |      6354|       0.15       1.61|
+Info:      12000 |     1168      10512 |  191   809 |      5615|       0.17       1.78|
+Info:      13000 |     1395      11285 |  227   773 |      4956|       0.21       1.99|
+Info:      14000 |     1624      12056 |  229   771 |      4312|       0.21       2.20|
+Info:      15000 |     1827      12853 |  203   797 |      3583|       0.20       2.39|
+Info:      16000 |     2076      13604 |  249   751 |      3033|       0.20       2.59|
+Info:      17000 |     2417      14263 |  341   659 |      2507|       0.29       2.88|
+Info:      18000 |     2779      14901 |  362   638 |      2039|       0.25       3.14|
+Info:      19000 |     3150      15530 |  371   629 |      1651|       0.30       3.43|
+Info:      20000 |     3540      16140 |  390   610 |      1370|       0.28       3.72|
+Info:      21000 |     3943      16737 |  403   597 |       994|       0.34       4.06|
+Info:      22000 |     4392      17288 |  449   551 |       721|       0.37       4.43|
+Info:      22736 |     4404      18013 |   12   725 |         0|       0.24       4.67|
+Info: Routing complete.
+Info: Router1 time 4.67s
+Info: Checksum: 0xcb571062
+
+Info: Critical path report for clock 'clock$SB_IO_IN_$glb_clk' (posedge -> posedge):
+Info: curr total
+Info:  0.5  0.5  Source $auto$simplemap.cc:420:simplemap_dff$10221_DFFLC.O
+Info:  0.6  1.1    Net insn_EX[3] budget 5.949000 ns (15,29) -> (14,29)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24211_LC.I0
+Info:                Defined in:
+Info:                  nerv.sv:114
+Info:  0.4  1.6  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24211_LC.O
+Info:  0.6  2.2    Net $abc$24187$auto$simplemap.cc:127:simplemap_reduce$5551[0]_new_inv_ budget 5.949000 ns (14,29) -> (13,28)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24210_LC.I1
+Info:  0.4  2.6  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24210_LC.O
+Info:  2.4  4.9    Net $abc$24187$auto$simplemap.cc:127:simplemap_reduce$14378[0]_new_ budget 6.238000 ns (13,28) -> (11,14)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24612_LC.I1
+Info:  0.4  5.3  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24612_LC.O
+Info:  1.3  6.6    Net $abc$24187$new_n2382_ budget 6.238000 ns (11,14) -> (9,10)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24664_LC.I1
+Info:  0.4  7.0  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24664_LC.O
+Info:  1.3  8.3    Net $abc$24187$auto$share.cc:986:make_cell_activation_logic$1132_new_ budget 6.238000 ns (9,10) -> (7,9)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24673_LC.I2
+Info:  0.4  8.7  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24673_LC.O
+Info:  1.3 10.0    Net $abc$24187$auto$share.cc:657:make_supercell$1135[2]_new_inv_ budget 6.391000 ns (7,9) -> (7,3)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$25087_LC.I2
+Info:  0.4 10.4  Source $abc$24187$auto$blifparse.cc:492:parse_blif$25087_LC.O
+Info:  1.3 11.7    Net $abc$24187$new_n2992_ budget 6.465000 ns (7,3) -> (9,2)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$27129_LC.I2
+Info:  0.4 12.0  Source $abc$24187$auto$blifparse.cc:492:parse_blif$27129_LC.O
+Info:  0.6 12.6    Net $abc$24187$new_n5732_ budget 6.465000 ns (9,2) -> (9,1)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$27130_LC.I0
+Info:  0.4 13.1  Source $abc$24187$auto$blifparse.cc:492:parse_blif$27130_LC.O
+Info:  1.3 14.3    Net $abc$24187$procmux$195.B_AND_S[79]_new_ budget 6.465000 ns (9,1) -> (12,5)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$25386_LC.I1
+Info:                Defined in:
+Info:                  nerv.sv:407
+Info:                  nerv.sv:397
+Info:                  /usr/bin/../share/yosys/techmap.v:432
+Info:  0.4 14.7  Source $abc$24187$auto$blifparse.cc:492:parse_blif$25386_LC.O
+Info:  1.7 16.4    Net $abc$24187$new_n3414_ budget 6.465000 ns (12,5) -> (13,15)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$27127_LC.I0
+Info:  0.4 16.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$27127_LC.O
+Info:  1.6 18.5    Net $abc$24187$next_rd[15]_new_ budget 6.465000 ns (13,15) -> (18,14)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$26655_LC.I1
+Info:                Defined in:
+Info:                  nerv.sv:212
+Info:  0.4 18.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$26655_LC.O
+Info:  1.8 20.7    Net $0$memwr$\regfile$nerv.sv:479$1_DATA[31:0]$109[15] budget 6.465000 ns (18,14) -> (16,15)
+Info:                Sink $auto$simplemap.cc:420:simplemap_dff$2858_DFFLC.I0
+Info:                Defined in:
+Info:                  nerv.sv:459
+Info:  0.5 21.2  Setup $auto$simplemap.cc:420:simplemap_dff$2858_DFFLC.I0
+Info: 5.5 ns logic, 15.7 ns routing
+
+Info: Critical path report for cross-domain path '<async>' -> '<async>':
+Info: curr total
+Info:  0.0  0.0  Source imem_data[15]$sb_io.D_IN_0
+Info:  3.6  3.6    Net imem_data[15]$SB_IO_IN budget 6.505000 ns (0,3) -> (20,16)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24224_LC.I3
+Info:                Defined in:
+Info:                  nerv.sv:104
+Info:  0.3  3.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24224_LC.O
+Info:  0.6  4.5    Net $abc$24187$new_n1989_ budget 6.238000 ns (20,16) -> (20,16)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24222_LC.I3
+Info:  0.3  4.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24222_LC.O
+Info:  0.6  5.4    Net $abc$24187$new_n1987_ budget 8.839000 ns (20,16) -> (20,16)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24221_LC.I0
+Info:  0.4  5.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24221_LC.O
+Info:  1.0  6.8    Net $abc$24187$2\fw_rs1[0:0]_new_ budget 8.839000 ns (20,16) -> (19,18)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24193_LC.I2
+Info:                Defined in:
+Info:                  nerv.sv:228
+Info:  0.4  7.2  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24193_LC.O
+Info:  0.6  7.8    Net $abc$24187$logic_and$nerv.sv:437$98_Y budget 5.949000 ns (19,18) -> (19,19)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24192_LC.I0
+Info:                Defined in:
+Info:                  nerv.sv:437
+Info:  0.4  8.2  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24192_LC.O
+Info:  0.6  8.8    Net stall_ID budget 5.949000 ns (19,19) -> (19,19)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24191_LC.I0
+Info:                Defined in:
+Info:                  nerv.sv:225
+Info:  0.4  9.3  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24191_LC.O
+Info:  2.3 11.5    Net $abc$24187$logic_or$nerv.sv:92$10_Y_new_inv_ budget 6.471000 ns (19,19) -> (7,26)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24342_LC.I2
+Info:                Defined in:
+Info:                  nerv.sv:92
+Info:  0.4 11.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24342_LC.O
+Info:  2.0 14.0    Net imem_addr[0]$SB_IO_OUT budget 6.510000 ns (7,26) -> (0,27)
+Info:                Sink imem_addr[0]$sb_io.D_OUT_0
+Info:                Defined in:
+Info:                  nerv.sv:37
+Info: 2.7 ns logic, 11.2 ns routing
+
+Info: Critical path report for cross-domain path '<async>' -> 'posedge clock$SB_IO_IN_$glb_clk':
+Info: curr total
+Info:  0.0  0.0  Source imem_data[15]$sb_io.D_IN_0
+Info:  3.6  3.6    Net imem_data[15]$SB_IO_IN budget 6.505000 ns (0,3) -> (20,16)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24224_LC.I3
+Info:                Defined in:
+Info:                  nerv.sv:104
+Info:  0.3  3.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24224_LC.O
+Info:  0.6  4.5    Net $abc$24187$new_n1989_ budget 6.238000 ns (20,16) -> (20,16)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24222_LC.I3
+Info:  0.3  4.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24222_LC.O
+Info:  0.6  5.4    Net $abc$24187$new_n1987_ budget 6.238000 ns (20,16) -> (20,15)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24607_LC.I1
+Info:  0.4  5.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24607_LC.O
+Info:  2.3  8.1    Net $abc$24187$new_n2377_ budget 6.238000 ns (20,15) -> (9,10)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24664_LC.I0
+Info:  0.4  8.5  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24664_LC.O
+Info:  1.3  9.8    Net $abc$24187$auto$share.cc:986:make_cell_activation_logic$1132_new_ budget 6.238000 ns (9,10) -> (7,9)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24673_LC.I2
+Info:  0.4 10.2  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24673_LC.O
+Info:  1.3 11.5    Net $abc$24187$auto$share.cc:657:make_supercell$1135[2]_new_inv_ budget 6.391000 ns (7,9) -> (7,3)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$25087_LC.I2
+Info:  0.4 11.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$25087_LC.O
+Info:  1.3 13.2    Net $abc$24187$new_n2992_ budget 6.465000 ns (7,3) -> (9,2)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$27129_LC.I2
+Info:  0.4 13.5  Source $abc$24187$auto$blifparse.cc:492:parse_blif$27129_LC.O
+Info:  0.6 14.1    Net $abc$24187$new_n5732_ budget 6.465000 ns (9,2) -> (9,1)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$27130_LC.I0
+Info:  0.4 14.6  Source $abc$24187$auto$blifparse.cc:492:parse_blif$27130_LC.O
+Info:  1.3 15.9    Net $abc$24187$procmux$195.B_AND_S[79]_new_ budget 6.465000 ns (9,1) -> (12,5)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$25386_LC.I1
+Info:                Defined in:
+Info:                  nerv.sv:407
+Info:                  nerv.sv:397
+Info:                  /usr/bin/../share/yosys/techmap.v:432
+Info:  0.4 16.3  Source $abc$24187$auto$blifparse.cc:492:parse_blif$25386_LC.O
+Info:  1.7 18.0    Net $abc$24187$new_n3414_ budget 6.465000 ns (12,5) -> (13,15)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$27127_LC.I0
+Info:  0.4 18.4  Source $abc$24187$auto$blifparse.cc:492:parse_blif$27127_LC.O
+Info:  1.6 20.0    Net $abc$24187$next_rd[15]_new_ budget 6.465000 ns (13,15) -> (18,14)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$26655_LC.I1
+Info:                Defined in:
+Info:                  nerv.sv:212
+Info:  0.4 20.4  Source $abc$24187$auto$blifparse.cc:492:parse_blif$26655_LC.O
+Info:  1.8 22.2    Net $0$memwr$\regfile$nerv.sv:479$1_DATA[31:0]$109[15] budget 6.465000 ns (18,14) -> (16,15)
+Info:                Sink $auto$simplemap.cc:420:simplemap_dff$2858_DFFLC.I0
+Info:                Defined in:
+Info:                  nerv.sv:459
+Info:  0.5 22.7  Setup $auto$simplemap.cc:420:simplemap_dff$2858_DFFLC.I0
+Info: 4.8 ns logic, 17.9 ns routing
+
+Info: Critical path report for cross-domain path 'posedge clock$SB_IO_IN_$glb_clk' -> '<async>':
+Info: curr total
+Info:  0.5  0.5  Source $abc$24187$auto$blifparse.cc:492:parse_blif$26046_LC.O
+Info:  2.0  2.5    Net rs2_value[1] budget 0.000000 ns (14,10) -> (7,17)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$26854_LC.I0
+Info:                Defined in:
+Info:                  nerv.sv:99
+Info:  0.4  2.9  Source $abc$24187$auto$blifparse.cc:492:parse_blif$26854_LC.O
+Info:  0.6  3.5    Net $abc$24187$auto$alumacc.cc:474:replace_alu$1251.BB[1] budget 0.000000 ns (7,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[1].carry$CARRY.I2
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:42
+Info:  0.2  3.8  Source $auto$alumacc.cc:474:replace_alu$1251.slice[1].carry$CARRY.COUT
+Info:  0.0  3.8    Net $auto$alumacc.cc:474:replace_alu$1251.C[2] budget 0.000000 ns (6,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[2].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  3.9  Source $auto$alumacc.cc:474:replace_alu$1251.slice[2].carry$CARRY.COUT
+Info:  0.0  3.9    Net $auto$alumacc.cc:474:replace_alu$1251.C[3] budget 0.000000 ns (6,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[3].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  4.0  Source $auto$alumacc.cc:474:replace_alu$1251.slice[3].carry$CARRY.COUT
+Info:  0.0  4.0    Net $auto$alumacc.cc:474:replace_alu$1251.C[4] budget 0.000000 ns (6,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[4].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  4.1  Source $auto$alumacc.cc:474:replace_alu$1251.slice[4].carry$CARRY.COUT
+Info:  0.0  4.1    Net $auto$alumacc.cc:474:replace_alu$1251.C[5] budget 0.000000 ns (6,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[5].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  4.3  Source $auto$alumacc.cc:474:replace_alu$1251.slice[5].carry$CARRY.COUT
+Info:  0.0  4.3    Net $auto$alumacc.cc:474:replace_alu$1251.C[6] budget 0.000000 ns (6,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[6].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  4.4  Source $auto$alumacc.cc:474:replace_alu$1251.slice[6].carry$CARRY.COUT
+Info:  0.0  4.4    Net $auto$alumacc.cc:474:replace_alu$1251.C[7] budget 0.000000 ns (6,17) -> (6,17)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[7].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  4.5  Source $auto$alumacc.cc:474:replace_alu$1251.slice[7].carry$CARRY.COUT
+Info:  0.2  4.7    Net $auto$alumacc.cc:474:replace_alu$1251.C[8] budget 0.190000 ns (6,17) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[8].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  4.8  Source $auto$alumacc.cc:474:replace_alu$1251.slice[8].carry$CARRY.COUT
+Info:  0.0  4.8    Net $auto$alumacc.cc:474:replace_alu$1251.C[9] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[9].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.0  Source $auto$alumacc.cc:474:replace_alu$1251.slice[9].carry$CARRY.COUT
+Info:  0.0  5.0    Net $auto$alumacc.cc:474:replace_alu$1251.C[10] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[10].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.1  Source $auto$alumacc.cc:474:replace_alu$1251.slice[10].carry$CARRY.COUT
+Info:  0.0  5.1    Net $auto$alumacc.cc:474:replace_alu$1251.C[11] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[11].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.2  Source $auto$alumacc.cc:474:replace_alu$1251.slice[11].carry$CARRY.COUT
+Info:  0.0  5.2    Net $auto$alumacc.cc:474:replace_alu$1251.C[12] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[12].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.3  Source $auto$alumacc.cc:474:replace_alu$1251.slice[12].carry$CARRY.COUT
+Info:  0.0  5.3    Net $auto$alumacc.cc:474:replace_alu$1251.C[13] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[13].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.5  Source $auto$alumacc.cc:474:replace_alu$1251.slice[13].carry$CARRY.COUT
+Info:  0.0  5.5    Net $auto$alumacc.cc:474:replace_alu$1251.C[14] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[14].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.6  Source $auto$alumacc.cc:474:replace_alu$1251.slice[14].carry$CARRY.COUT
+Info:  0.0  5.6    Net $auto$alumacc.cc:474:replace_alu$1251.C[15] budget 0.000000 ns (6,18) -> (6,18)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[15].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  5.7  Source $auto$alumacc.cc:474:replace_alu$1251.slice[15].carry$CARRY.COUT
+Info:  0.2  5.9    Net $auto$alumacc.cc:474:replace_alu$1251.C[16] budget 0.190000 ns (6,18) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[16].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.0  Source $auto$alumacc.cc:474:replace_alu$1251.slice[16].carry$CARRY.COUT
+Info:  0.0  6.0    Net $auto$alumacc.cc:474:replace_alu$1251.C[17] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[17].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.2  Source $auto$alumacc.cc:474:replace_alu$1251.slice[17].carry$CARRY.COUT
+Info:  0.0  6.2    Net $auto$alumacc.cc:474:replace_alu$1251.C[18] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[18].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.3  Source $auto$alumacc.cc:474:replace_alu$1251.slice[18].carry$CARRY.COUT
+Info:  0.0  6.3    Net $auto$alumacc.cc:474:replace_alu$1251.C[19] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[19].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.4  Source $auto$alumacc.cc:474:replace_alu$1251.slice[19].carry$CARRY.COUT
+Info:  0.0  6.4    Net $auto$alumacc.cc:474:replace_alu$1251.C[20] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[20].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.6  Source $auto$alumacc.cc:474:replace_alu$1251.slice[20].carry$CARRY.COUT
+Info:  0.0  6.6    Net $auto$alumacc.cc:474:replace_alu$1251.C[21] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[21].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.7  Source $auto$alumacc.cc:474:replace_alu$1251.slice[21].carry$CARRY.COUT
+Info:  0.0  6.7    Net $auto$alumacc.cc:474:replace_alu$1251.C[22] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[22].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.8  Source $auto$alumacc.cc:474:replace_alu$1251.slice[22].carry$CARRY.COUT
+Info:  0.0  6.8    Net $auto$alumacc.cc:474:replace_alu$1251.C[23] budget 0.000000 ns (6,19) -> (6,19)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[23].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  6.9  Source $auto$alumacc.cc:474:replace_alu$1251.slice[23].carry$CARRY.COUT
+Info:  0.2  7.1    Net $auto$alumacc.cc:474:replace_alu$1251.C[24] budget 0.190000 ns (6,19) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[24].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  7.3  Source $auto$alumacc.cc:474:replace_alu$1251.slice[24].carry$CARRY.COUT
+Info:  0.0  7.3    Net $auto$alumacc.cc:474:replace_alu$1251.C[25] budget 0.000000 ns (6,20) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[25].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  7.4  Source $auto$alumacc.cc:474:replace_alu$1251.slice[25].carry$CARRY.COUT
+Info:  0.0  7.4    Net $auto$alumacc.cc:474:replace_alu$1251.C[26] budget 0.000000 ns (6,20) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[26].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  7.5  Source $auto$alumacc.cc:474:replace_alu$1251.slice[26].carry$CARRY.COUT
+Info:  0.0  7.5    Net $auto$alumacc.cc:474:replace_alu$1251.C[27] budget 0.000000 ns (6,20) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[27].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  7.6  Source $auto$alumacc.cc:474:replace_alu$1251.slice[27].carry$CARRY.COUT
+Info:  0.0  7.6    Net $auto$alumacc.cc:474:replace_alu$1251.C[28] budget 0.000000 ns (6,20) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[28].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  7.8  Source $auto$alumacc.cc:474:replace_alu$1251.slice[28].carry$CARRY.COUT
+Info:  0.0  7.8    Net $auto$alumacc.cc:474:replace_alu$1251.C[29] budget 0.000000 ns (6,20) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[29].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  7.9  Source $auto$alumacc.cc:474:replace_alu$1251.slice[29].carry$CARRY.COUT
+Info:  0.0  7.9    Net $auto$alumacc.cc:474:replace_alu$1251.C[30] budget 0.000000 ns (6,20) -> (6,20)
+Info:                Sink $auto$alumacc.cc:474:replace_alu$1251.slice[30].carry$CARRY.CIN
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.1  8.0  Source $auto$alumacc.cc:474:replace_alu$1251.slice[30].carry$CARRY.COUT
+Info:  0.3  8.3    Net $nextpnr_ICESTORM_LC_0$I3 budget 0.260000 ns (6,20) -> (6,20)
+Info:                Sink $nextpnr_ICESTORM_LC_0.I3
+Info:  0.3  8.6  Source $nextpnr_ICESTORM_LC_0.O
+Info:  0.6  9.2    Net $auto$alumacc.cc:474:replace_alu$1251.C[31] budget 23.268999 ns (6,20) -> (6,21)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24272_LC.I1
+Info:                Defined in:
+Info:                  nerv.sv:324
+Info:                  /usr/bin/../share/yosys/ice40/arith_map.v:43
+Info:  0.4  9.6  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24272_LC.O
+Info:  2.0 11.5    Net $abc$24187$7\j_b_check[0:0]_new_ budget 7.756000 ns (6,21) -> (13,26)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24277_LC.I3
+Info:                Defined in:
+Info:                  nerv.sv:228
+Info:  0.3 11.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24277_LC.O
+Info:  0.6 12.4    Net $abc$24187$auto$simplemap.cc:127:simplemap_reduce$13328[1]_new_inv_ budget 6.205000 ns (13,26) -> (14,26)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24276_LC.I3
+Info:  0.3 12.7  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24276_LC.O
+Info:  1.6 14.3    Net $abc$24187$new_n2043_ budget 7.091000 ns (14,26) -> (18,30)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24594_LC.I0
+Info:  0.4 14.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24594_LC.O
+Info:  0.6 15.4    Net $abc$24187$new_n2363_ budget 6.205000 ns (18,30) -> (18,30)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24593_LC.I1
+Info:  0.4 15.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24593_LC.O
+Info:  0.6 16.4    Net $abc$24187$procmux$936.B_AND_S[31]_new_ budget 6.204000 ns (18,30) -> (19,30)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24592_LC.I0
+Info:                Defined in:
+Info:                  nerv.sv:319
+Info:                  nerv.sv:278
+Info:                  /usr/bin/../share/yosys/techmap.v:432
+Info:  0.4 16.8  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24592_LC.O
+Info:  2.3 19.1    Net $abc$24187$1\npc[31:0][31]_new_inv_ budget 6.204000 ns (19,30) -> (21,18)
+Info:                Sink $abc$24187$auto$blifparse.cc:492:parse_blif$24591_LC.I0
+Info:                Defined in:
+Info:                  nerv.sv:228
+Info:  0.4 19.6  Source $abc$24187$auto$blifparse.cc:492:parse_blif$24591_LC.O
+Info:  1.9 21.5    Net imem_addr[31]$SB_IO_OUT budget 6.243000 ns (21,18) -> (33,17)
+Info:                Sink imem_addr[31]$sb_io.D_OUT_0
+Info:                Defined in:
+Info:                  nerv.sv:37
+Info: 8.0 ns logic, 13.5 ns routing
+
+Info: Max frequency for clock 'clock$SB_IO_IN_$glb_clk': 47.27 MHz (PASS at 12.00 MHz)
+
+Info: Max delay <async>                         -> <async>                        : 13.95 ns
+Info: Max delay <async>                         -> posedge clock$SB_IO_IN_$glb_clk: 22.67 ns
+Info: Max delay posedge clock$SB_IO_IN_$glb_clk -> <async>                        : 21.49 ns
+
+Info: Slack histogram:
+Info:  legend: * represents 13 endpoint(s)
+Info:          + represents [1,13) endpoint(s)
+Info: [ 60668,  61749) |*********+
+Info: [ 61749,  62830) |******************************+
+Info: [ 62830,  63911) |************************************************************ 
+Info: [ 63911,  64992) |*************************************************+
+Info: [ 64992,  66073) |******************+
+Info: [ 66073,  67154) |*********************+
+Info: [ 67154,  68235) |**********************************************+
+Info: [ 68235,  69316) |****************+
+Info: [ 69316,  70397) |***+
+Info: [ 70397,  71478) |*****************+
+Info: [ 71478,  72559) |***********************************************+
+Info: [ 72559,  73640) |******************************+
+Info: [ 73640,  74721) |**********+
+Info: [ 74721,  75802) |******+
+Info: [ 75802,  76883) |***+
+Info: [ 76883,  77964) |*+
+Info: [ 77964,  79045) |*+
+Info: [ 79045,  80126) |***+
+Info: [ 80126,  81207) |********+
+Info: [ 81207,  82288) |****+
+201 warnings, 0 errors
+
+Info: Program finished normally.

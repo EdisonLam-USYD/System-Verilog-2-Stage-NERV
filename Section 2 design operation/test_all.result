@@ -1,0 +1,36 @@
+make[1]: Entering directory '/config/elec3608-lab/FinalExam/Section_2/obj_dir'
+g++  -I.  -MMD -I/usr/share/verilator/include -I/usr/share/verilator/include/vltstd -DVM_COVERAGE=0 -DVM_SC=0 -DVM_TRACE=1 -faligned-new -fcf-protection=none -Wno-bool-operation -Wno-sign-compare -Wno-uninitialized -Wno-unused-but-set-variable -Wno-unused-parameter -Wno-unused-variable -Wno-shadow     -fPIC -shared --std=c++11 -DVL_USER_FINISH  -Os -c -o pyverilator_wrapper.o ../obj_dir/pyverilator_wrapper.cpp
+g++ -fPIC -shared pyverilator_wrapper.o verilated.o verilated_vcd_c.o Vtestbench__ALL.a      -o Vtestbench
+make[1]: Leaving directory '/config/elec3608-lab/FinalExam/Section_2/obj_dir'
+x10=30, cycles=1699
+info: answer found:         7
+info: answer found:        10
+info: answer found:        12
+info: answer found:        14
+info: answer found:        15
+info: answer found:        17
+info: answer found:        18
+info: answer found:        20
+info: answer found:        21
+info: answer found:        22
+info: answer found:        23
+info: answer found:        24
+info: answer found:        25
+info: answer found:        26
+info: answer found:        27
+info: answer found:        28
+info: answer found:        29
+info: answer found:        30
+info: answer found:        30
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
+NOP
